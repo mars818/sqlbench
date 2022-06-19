@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/mysql-connector-java.jar lib/ojdbc8.jar lib/oceanbase-client-1.1.7.jar lib/openGauss-2.0.0.jar
+  lib/vastbase-1.0_2021040119.jar lib/DmJdbcDriver18.jar
+Main-Class: sqlbench
