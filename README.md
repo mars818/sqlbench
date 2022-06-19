@@ -3,8 +3,8 @@
 #### Description
 JDBC drived sqlbench tool, some oltp tests like sysbench, oracle/mysql/oceanbase/opengauss/vastbase/dameng are supported now. you can clone and extend more drivers and test mode for your test case.
 
-#### Software Architecture
-java
+#### Software Requirements
+openjdk version 11+
 
 #### Installation
 
