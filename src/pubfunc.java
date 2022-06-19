@@ -110,7 +110,7 @@ public class pubfunc {
         "java -jar sqlbench.jar --db_driver=oracle --dbname=orcl --host=localhost --user=test --password=Ben_1234 --test_mode=read_only --threads=3 --tables=3 --table_size=1000 run\n"+
         "java -jar sqlbench.jar --db_driver=oracle --dbname=orcl --host=localhost --user=test --password=Ben_1234 --test_mode=read_only --threads=3 --tables=3 --table_size=1000 cleanup\n"+
         "\n"+
-        "See source code(https://gitee.com/mars818/sqlbench) for full options for each test.\n\n");
+        "See source code(https://github.com/mars818/sqlbench) for full options for each test.\n\n");
         System.exit(0);
     }
 }
